@@ -7,3 +7,4 @@ I'm a student learning **Full-Stack Web Development**, currently focusing on **H
 - HTML  
 - CSS  
 - Git & GitHub
+_ JavaScript 
