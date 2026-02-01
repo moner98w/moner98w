@@ -6,5 +6,6 @@ I'm a student learning **Full-Stack Web Development**, currently focusing on **H
 ## Skills
 - HTML  
 - CSS  
+-JavaScript
 - Git & GitHub
-_ JavaScript 
+ 
